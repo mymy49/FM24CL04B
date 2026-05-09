@@ -5,7 +5,7 @@
  * See the file "LICENSE" in the main directory of this archive for more details.
  */
 
-#include <mod/fram/FM24CL04B.h>
+#include "FM24CL04B.h"
 
 #if !(defined(YSS_DRV_I2C_UNSUPPORTED) || defined(YSS_DRV_GPIO_UNSUPPORTED))
 
