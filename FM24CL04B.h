@@ -8,7 +8,7 @@
 #ifndef YSS_MOD_FRAM_FM24CL04B__H_
 #define YSS_MOD_FRAM_FM24CL04B__H_
 
-#include <sac/Memory.h>
+#include <hal/Memory.h>
 #include <yss/instance.h>
 #include <yss/error.h>
 
